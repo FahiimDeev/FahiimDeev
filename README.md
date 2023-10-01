@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahiimdeev&label=Profile%20views&color=0e75b6&style=flat" alt="fahiimdeev" /> </p>
 
-- 🌱 I’m currently Working **on a android project**
-
-- 💬 Ask me about **Java Development and graphics design**
+- 💬 Ask me about **Web and app development**
 
 - 📫 How to reach me **mustafafhm986@gmail.com**
 
