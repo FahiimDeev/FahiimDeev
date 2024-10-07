@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahiimdeev" alt="fahiimdeev" /></a> </p>
 
-- 🔭 I’m currently pursuing **BSc in Computer Science and Engineering**
 
 - 📫 How to reach me **mustafafhm986@gmail.com**
 
